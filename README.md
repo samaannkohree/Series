@@ -2,7 +2,7 @@
 "name": "ทีวีไทย YT@แอนดรอยด์แอพฟรี",
 "author": "ติดตาม@YOUTUBE:แอนดรอยด์แอพฟรี",
 "image": "http://aosat.igetweb.com/article/art_42144142.png",
-"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/thaitv",
+"url": "https://raw.githubusercontent.com/samaannkohree/Series/main/README.md",
 "stations": [
 	
 
